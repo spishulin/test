@@ -13,5 +13,5 @@ while true; do
     fi
   fi
   echo ====== >> /var/log/monitoring.log
-  sleep 2 
+  sleep 60
 done
