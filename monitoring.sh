@@ -12,6 +12,5 @@ while true; do
       echo "$(date) : proces $PROC restart" >> /var/log/monitoring.log
     fi
   fi
-  echo ====== >> /var/log/monitoring.log
   sleep 60
 done
