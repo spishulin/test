@@ -1,0 +1,5 @@
+[Unit]
+Description=test monitoring 
+ 
+[Service]
+ExecStart=/root/monitoring.sh
